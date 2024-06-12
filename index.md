@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-I'm a ScM Student in Biostatistics at Johns Hopkins University. My research spans several areas, with a current focus on developing statistical models for meta-analysis. Under the guidance of Dr. Lifeng Lin, I am concentrating on meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS analysis. My work also involves the epidemiologic analysis of musculoskeletal diseases, in collaboration with Dr. Guoqi Cai.
+I'm a ScM Student in Biostatistics at <a href="https://www.jhu.edu/">Johns Hopkins University. My research spans several areas, with a current focus on developing statistical models for meta-analysis. Under the guidance of Dr. Lifeng Lin, I am concentrating on meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS analysis. My work also involves the epidemiologic analysis of musculoskeletal diseases, in collaboration with Dr. Guoqi Cai.
 
 Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 ## Research Interests
-- **Evidence-based medicine**
-- **Publication Bias**
-- **Mendelian Randomization**
-- **Musculoskeletal Diseases**
+- Evidence-based medicine
+- Publication Bias
+- Mendelian Randomization
+- Musculoskeletal Diseases
 
 
 
