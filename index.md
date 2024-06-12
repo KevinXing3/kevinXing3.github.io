@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a ScM Student in Biostatistics at [Johns Hopkins University](https://www.jhu.edu). My research spans several areas, with a current focus on developing statistical models for meta-analysis. Under the guidance of Dr. Lifeng Lin, I am concentrating on meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS analysis. My work also involves the epidemiologic analysis of musculoskeletal diseases, in collaboration with Dr. Guoqi Cai.
+I'm a ScM Student in Biostatistics at  <span style="color:darkblue;">[Johns Hopkins University](https://www.jhu.edu). My research spans several areas, with a current focus on developing statistical models for meta-analysis. Under the guidance of Dr. Lifeng Lin, I am concentrating on meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS analysis. My work also involves the epidemiologic analysis of musculoskeletal diseases, in collaboration with Dr. Guoqi Cai.
 
 Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
@@ -18,9 +18,11 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 {% include_relative _includes/project.md %}
-
 ## conference
-- **[Apr. 2024.]** <a href="https://www.oarsijournal.com/article/S1063-4584(24)00544-2/abstract" target="_blank">*Predictive validity of machine learning vs a consensus-based MRI definition of osteoarthritis combined with radiographic osteoarthritis for the progression of cartilage loss, knee symptoms and total knee replacement*</a> has been presented on **OARSI 2024**.
+## conference
+- **<span style="color:darkblue;">[Apr. 2024.]</span>** <a href="https://www.oarsijournal.com/article/S1063-4584(24)00544-2/abstract" target="_blank" style="color:darkblue;">*Predictive validity of machine learning vs a consensus-based MRI definition of osteoarthritis combined with radiographic osteoarthritis for the progression of cartilage loss, knee symptoms and total knee replacement*</a> has been presented on **<span style="color:darkblue;">OARSI 2024</span>**.
+  
+
 
 ## Collaboration
 
