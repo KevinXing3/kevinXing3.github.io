@@ -26,6 +26,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 ## Collaboration
 - **[Sep. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Global, regional, and national burden of Burkitt lymphoma from 1990 to 2021 and predictions to 2030: a systematic analysis for the Global Burden of Disease Study 2021*</a> has been published by the **Blood Cancer Journal**.
 
+- **[Aug. 2024]** <a href="https://link.springer.com/article/10.1007/s00296-024-05678-2" target="_blank" style="color:#002D72">*The relationship between MRI-detected hip abnormalities and hip pain in hip osteoarthritis: a systematic review*</a> has been published by the **Rheumatology International**.
+
 - **[Jul. 2024]** <a href="https://link.springer.com/article/10.1186/s12891-024-07710-9" target="_blank" style="color:#002D72">*Association of physical activity trajectories over 8 years and risk of knee replacement: data from the osteoarthritis initiative*</a> has been published by the **BMC Musculoskeletal Disorders**.
 
 - **[Jul. 2024]** <a href="https://www.tandfonline.com/doi/abs/10.1080/14796694.2024.2376512" target="_blank" style="color:#002D72">*A novel prognostic index for extranodal natural killer/T-cell lymphoma in the era of pegaspargase/L-asparaginase*</a> has been published by the **Future Oncology**.
