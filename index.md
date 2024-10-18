@@ -32,11 +32,7 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 - **[May. 2024]** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304389424005892" target="_blank" style="color:#002D72">*Association between air pollution and male sexual function: A nationwide observational study in China*</a> has been published by the **Journal of Hazardous Materials**.
 
-- **[Feb. 2024]** <a href="https://academic.oup.com/ajcp/advance-article-abstract/doi/10.1093/ajcp/aqae012/7612824
-        
-        
-        
-        " target="_blank" style="color:#002D72">*Clinicopathologic features and survival outcomes of CD30 expression in extranodal natural killer/T-cell lymphoma*</a> has been published by the **American Journal of Clinical Pathology**.
+- **[Feb. 2024]** <a href="https://academic.oup.com/ajcp/advance-article-abstract/doi/10.1093/ajcp/aqae012/7612824" target="_blank" style="color:#002D72">*Clinicopathologic features and survival outcomes of CD30 expression in extranodal natural killer/T-cell lymphoma*</a> has been published by the **American Journal of Clinical Pathology**.
 
 - **[Oct. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank" style="color:#002D72">*Association of smoking with cartilage loss of knee osteoarthritis: data from two longitudinal cohorts*</a> has been published by **BMC Musculoskeletal Disorders**. 
 
