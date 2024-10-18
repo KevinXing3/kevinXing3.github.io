@@ -18,13 +18,19 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 {% include_relative _includes/project.md %}
-## conference
+## Conference
 - [Apr. 2024.] <a href="https://www.oarsijournal.com/article/S1063-4584(24)00544-2/abstract" target="_blank" style="color:#002D72">*Predictive validity of machine learning vs a consensus-based MRI definition of osteoarthritis combined with radiographic osteoarthritis for the progression of cartilage loss, knee symptoms and total knee replacement*</a> has been presented on **<span style="color:#002D72">OARSI 2024</span>**.
   
 
 
 ## Collaboration
-- **[May. 2024]** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0033350623004535" target="_blank" style="color:#002D72">*The global burden of lymphoma: estimates from the Global Burden of Disease 2019 study*</a> has been published by the **Public Health**.
+- **[Sep. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Global, regional, and national burden of Burkitt lymphoma from 1990 to 2021 and predictions to 2030: a systematic analysis for the Global Burden of Disease Study 2021*</a> has been published by the **Blood Cancer Journal**.
+
+- **[Jul. 2024]** <a href="https://link.springer.com/article/10.1186/s12891-024-07710-9" target="_blank" style="color:#002D72">*Association of physical activity trajectories over 8 years and risk of knee replacement: data from the osteoarthritis initiative*</a> has been published by the **BMC Musculoskeletal Disorders**.
+
+- **[Jul. 2024]** <a href="https://www.tandfonline.com/doi/abs/10.1080/14796694.2024.2376512" target="_blank" style="color:#002D72">*A novel prognostic index for extranodal natural killer/T-cell lymphoma in the era of pegaspargase/L-asparaginase*</a> has been published by the **Future Oncology**.
+
+- **[Jun. 2024]** <a href="https://link.springer.com/article/10.1007/s00277-024-05852-3" target="_blank" style="color:#002D72">*Clinicopathological analysis of immunohistochemical CD47 and signal-regulatory protein-α expression in Extranodal Natural killer/T-cell lymphoma*</a> has been published by the **Annals of Hematology**.
 
 - **[May. 2024]** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0033350623004535" target="_blank" style="color:#002D72">*The global burden of lymphoma: estimates from the Global Burden of Disease 2019 study*</a> has been published by the **Public Health**.
 
