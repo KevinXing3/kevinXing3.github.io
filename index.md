@@ -19,6 +19,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 {% include_relative _includes/project.md %}
 ## Conference
+- [Nov. 2024.] <a href="https://acrabstracts.org/abstract/the-causal-effect-of-sex-hormone-related-drugs-on-the-risk-of-osteoarthritis-a-mendelian-randomization-study/" target="_blank" style="color:#002D72">*The Causal Effect of Sex Hormone-related Drugs on the Risk of Osteoarthritis – A Mendelian Randomization Study*</a> has been presented on **<span style="color:#002D72">ACR 2024</span>**.
+
 - [Apr. 2024.] <a href="https://www.oarsijournal.com/article/S1063-4584(24)00544-2/abstract" target="_blank" style="color:#002D72">*Predictive validity of machine learning vs a consensus-based MRI definition of osteoarthritis combined with radiographic osteoarthritis for the progression of cartilage loss, knee symptoms and total knee replacement*</a> has been presented on **<span style="color:#002D72">OARSI 2024</span>**.
   
 
