@@ -9,7 +9,7 @@ I'm a ScM Student in Biostatistics at <a href="https://www.jhu.edu" style="color
 Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 ## Research Interests
-- Evidence-based medicine
+- Evidence Synthesis
 - Publication Bias
 - Mendelian Randomization
 - Musculoskeletal Diseases
