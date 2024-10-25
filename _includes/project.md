@@ -11,6 +11,24 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03707-2#citeas" style="color:#002D72">Assessment of inverse publication bias in safety outcomes: an empirical analysis </a></div>
+    <div class="author"><strong>Xing Xing, Jianan Zhu, Linyu Shi, Chang Xu, Lifeng Lin</strong></div>
+    <div class="periodical"><em>BMC Medicine, Oct. 2024.</em></div>
+    <div class="links">
+      <a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03707-2#citeas" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CCT.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1551714424002295" style="color:#002D72">Methods for assessing inverse publication bias of adverse events </a></div>
     <div class="author"><strong>Xing Xing, Chang Xu, Fahad M Al Amer, Linyu Shi, Jianan Zhu, Lifeng Lin</strong></div>
     <div class="periodical"><em>Contemporary Clinical Trials, Oct. 2024.</em></div>
