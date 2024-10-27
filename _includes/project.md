@@ -2,6 +2,24 @@
 
 <div class="publications">
 <ol class="bibliography">
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/DIA.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://diabetesjournals.org/diabetes/article-abstract/doi/10.2337/db24-0262/157391/Evaluating-the-causal-effect-of-circulating?redirectedFrom=fulltext" style="color:#002D72">Evaluating the Causal Effect of Circulating Proteome on Glycemic Traits: Evidence From Mendelian Randomization </a></div>
+    <div class="author"><strong>Xing Xing, Siqi Xu, Yining Wang, Ziyuan Shen, Simin Wen, Yan Zhang, Guangfeng Ruan, and Guoqi Cai</strong></div>
+    <div class="periodical"><em>Diabetes, Accept.</em></div>
+    <div class="links">
+      <a href="https://diabetesjournals.org/diabetes/article-abstract/doi/10.2337/db24-0262/157391/Evaluating-the-causal-effect-of-circulating?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -47,11 +65,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1753-0407.13451
-        
-        
-        
-        " style="color:#002D72">Osteoarthritis and risk of type 2 diabetes: A two‐sample Mendelian randomization analysis </a></div>
+    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1753-0407.13451" style="color:#002D72">Osteoarthritis and risk of type 2 diabetes: A two‐sample Mendelian randomization analysis </a></div>
     <div class="author"><strong>Xing Xing, Yining Wang, Faming Pan, Guoqi Cai</strong></div>
     <div class="periodical"><em>Journal of Diabetes, Jul. 2023.</em></div>
     <div class="links">
