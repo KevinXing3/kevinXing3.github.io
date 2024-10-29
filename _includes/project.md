@@ -12,8 +12,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://diabetesjournals.org/diabetes/article-abstract/doi/10.2337/db24-0262/157391/Evaluating-the-causal-effect-of-circulating?redirectedFrom=fulltext" style="color:#002D72">Evaluating the Causal Effect of Circulating Proteome on Glycemic Traits: Evidence From Mendelian Randomization </a></div>
-    <div class="author"><strong>Xing Xing, Siqi Xu, Yining Wang, Ziyuan Shen, Simin Wen, Yan Zhang, Guangfeng Ruan, and Guoqi Cai</strong></div>
-    <div class="periodical"><em>Diabetes, Accept.</em></div>
+    <div class="author"><strong>Xing Xing, Siqi Xu, Yining Wang, Ziyuan Shen, Simin Wen, Yan Zhang, Guangfeng Ruan, Guoqi Cai</strong></div>
+    <div class="periodical"><em>Diabetes, Accepted.</em></div>
     <div class="links">
       <a href="https://diabetesjournals.org/diabetes/article-abstract/doi/10.2337/db24-0262/157391/Evaluating-the-causal-effect-of-circulating?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
