@@ -42,7 +42,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CCT.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/CCT1.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">article</abbr>
   </div>
 
@@ -65,11 +65,15 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1753-0407.13451" style="color:#002D72">Osteoarthritis and risk of type 2 diabetes: A two‐sample Mendelian randomization analysis </a></div>
+    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1753-0407.13451
+        
+        " style="color:#002D72">Osteoarthritis and risk of type 2 diabetes: A two‐sample Mendelian randomization analysis </a></div>
     <div class="author"><strong>Xing Xing, Yining Wang, Faming Pan, Guoqi Cai</strong></div>
     <div class="periodical"><em>Journal of Diabetes, Jul. 2023.</em></div>
     <div class="links">
-      <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1753-0407.13451" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1753-0407.13451
+        
+        " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -85,7 +89,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/dme.15180" style="color:#002D72">Association of prediabetes progression and regression with cognitive decline: Findings from the CHARLS </a></div>
+    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/dme.15180
+        
+        " style="color:#002D72">Association of prediabetes progression and regression with cognitive decline: Findings from the CHARLS </a></div>
     <div class="author"><strong>Xing Xing, Yining Wang, Ziyuan Shen, Faming Pan, Guoqi Cai</strong></div>
     <div class="periodical"><em>Diabetic Medicine, Jul. 2023.</em></div>
     <div class="links">
