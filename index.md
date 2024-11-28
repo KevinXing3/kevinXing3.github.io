@@ -26,6 +26,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
+- **[Nov. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Association of prognostic nutritional index with the presence and all-cause mortality of rheumatoid arthritis: the National Health and Nutrition Examination Survey 2003–2018*</a> has been published by the **BMC Public Health**.
+
 - **[Sep. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Global, regional, and national burden of Burkitt lymphoma from 1990 to 2021 and predictions to 2030: a systematic analysis for the Global Burden of Disease Study 2021*</a> has been published by the **Blood Cancer Journal**.
 
 - **[Aug. 2024]** <a href="https://link.springer.com/article/10.1007/s00296-024-05678-2" target="_blank" style="color:#002D72">*The relationship between MRI-detected hip abnormalities and hip pain in hip osteoarthritis: a systematic review*</a> has been published by the **Rheumatology International**.
