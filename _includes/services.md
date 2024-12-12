@@ -7,5 +7,6 @@
   <li>BMC Medicine</li>
   <li>European Journal of Medical Research</li>
   <li>Biochemical Genetics</li>
+  <li>Scientific Report</li>
   <li>Biofactor</li>
 </ul>
