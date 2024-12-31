@@ -26,6 +26,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
+- **[Dec. 2024]** <a href="https://link.springer.com/article/10.1007/s10067-024-07289-5" target="_blank" style="color:#002D72">*Causal association between bone mineral density and the risk of joint replacement in patients with osteoarthritis: a Mendelian randomization study*</a> has been published by the **Clinical Rheumatology**.
+
 - **[Dec. 2024]** <a href="https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2827787" target="_blank" style="color:#002D72">*Intraoperative Parathyroid Hormone Monitoring Criteria in Primary Hyperparathyroidism: A Network Meta-Analysis of Diagnostic Test Accuracy*</a> has been published by the **JAMA Otolaryngology–Head & Neck Surgery**.
 
 - **[Nov. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Association of prognostic nutritional index with the presence and all-cause mortality of rheumatoid arthritis: the National Health and Nutrition Examination Survey 2003–2018*</a> has been published by the **BMC Public Health**.
