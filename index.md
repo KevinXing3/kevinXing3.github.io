@@ -26,6 +26,9 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
+- **[Jan. 2025]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.14301" target="_blank" style="color:#002D72">*The Role of Double-Zero-Event Studies in Evidence Synthesis: Evaluating Robustness Using the Fragility Index*</a> has been published by the **Journal of Evaluation in Clinical Practice**.
+
+
 - **[Dec. 2024]** <a href="https://link.springer.com/article/10.1007/s10067-024-07289-5" target="_blank" style="color:#002D72">*Causal association between bone mineral density and the risk of joint replacement in patients with osteoarthritis: a Mendelian randomization study*</a> has been published by the **Clinical Rheumatology**.
 
 - **[Dec. 2024]** <a href="https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2827787" target="_blank" style="color:#002D72">*Intraoperative Parathyroid Hormone Monitoring Criteria in Primary Hyperparathyroidism: A Network Meta-Analysis of Diagnostic Test Accuracy*</a> has been published by the **JAMA Otolaryngology–Head & Neck Surgery**.
