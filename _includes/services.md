@@ -5,8 +5,9 @@
 <ul style="margin:0 0 20px;">
   <li>Research Synthesis Methods</li>
   <li>BMC Medicine</li>
+  <li>BMC Public health</li>
   <li>European Journal of Medical Research</li>
   <li>Biochemical Genetics</li>
-  <li>Scientific Report</li>
-  <li>Biofactor</li>
+  <li>Mammalian Genome</li>
+  <li>Lipids in Health and Disease</li>
 </ul>
