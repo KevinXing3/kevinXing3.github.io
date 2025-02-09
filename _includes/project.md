@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Trial sequential analysis involving same-year studies requires careful temporal ordering </a></div>
+    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Predictive validity of consensus-based MRI definition of osteoarthritis plus radiographic osteoarthritis for the progression of knee osteoarthritis: a longitudinal cohort study</a></div>
     <div class="author"><strong>Xing Xing, Yining Wang, Jianan Zhu, Ziyuan Shen, Flavia Cicuttini, Graeme Jones, Dawn Aitken, Guoqi Cai</strong></div>
     <div class="periodical"><em>Osteoarthritis and Cartilage Open, Accepted.</em></div>
     <div class="links">
