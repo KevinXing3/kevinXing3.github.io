@@ -12,6 +12,24 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Trial sequential analysis involving same-year studies requires careful temporal ordering </a></div>
+    <div class="author"><strong>Xing Xing, Yining Wang, Jianan Zhu, Ziyuan Shen, Flavia Cicuttini, Graeme Jones, Dawn Aitken, Guoqi Cai</strong></div>
+    <div class="periodical"><em>Osteoarthritis and Cartilage Open, Accepted.</em></div>
+    <div class="links">
+      <a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TSA.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Trial sequential analysis involving same-year studies requires careful temporal ordering </a></div>
     <div class="author"><strong>Xing Xing, Yipeng Wang, Lifeng Lin</strong></div>
     <div class="periodical"><em>Journal of Clinical Epidemiology, Mar. 2025.</em></div>
     <div class="links">
