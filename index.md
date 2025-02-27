@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a ScM Student in Biostatistics at <a href="https://www.jhu.edu" style="color:#002D72">Johns Hopkins University</a>. My research spans several areas, with a current focus on developing statistical models for meta-analysis. Under the guidance of Dr. Jessie Tong and <a href="https://publichealth.arizona.edu/directory/lifeng-lin" style="color:#002D72">Dr. Lifeng Lin</a>, I am concentrating on IPD meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS. My work also involves the epidemiologic analysis of musculoskeletal diseases, in collaboration with Dr. Guoqi Cai.
+I'm a ScM Student in Biostatistics at <a href="https://www.jhu.edu" style="color:#002D72">Johns Hopkins University</a>. My research spans several areas, with a current focus on developing statistical models for meta-analysis. Under the guidance of <a href="https://publichealth.jhu.edu/faculty/4789/jiayi-jessie-tong" style="color:#002D72">Dr. Jessie Tong</a> and <a href="https://publichealth.arizona.edu/directory/lifeng-lin" style="color:#002D72">Dr. Lifeng Lin</a>, I am concentrating on IPD meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS. My work also involves the epidemiologic analysis of musculoskeletal diseases, in collaboration with <a href="https://ggws.ahmu.edu.cn/2021/0922/c940a108940/page.htm" style="color:#002D72">Dr. Guoqi Cai</a>.
 
 Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
@@ -26,18 +26,10 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
-- **[Jan. 2025]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.14301
-        
-        
-        
-        " target="_blank" style="color:#002D72">*The Role of Double-Zero-Event Studies in Evidence Synthesis: Evaluating Robustness Using the Fragility Index*</a> has been published by the **Journal of Evaluation in Clinical Practice**.
+- **[Jan. 2025]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.14301" target="_blank" style="color:#002D72">*The Role of Double-Zero-Event Studies in Evidence Synthesis: Evaluating Robustness Using the Fragility Index*</a> has been published by the **Journal of Evaluation in Clinical Practice**.
 
 
-- **[Dec. 2024]** <a href="https://link.springer.com/article/10.1007/s10067-024-07289-5
-        
-        
-        
-        " target="_blank" style="color:#002D72">*Causal association between bone mineral density and the risk of joint replacement in patients with osteoarthritis: a Mendelian randomization study*</a> has been published by the **Clinical Rheumatology**.
+- **[Dec. 2024]** <a href="https://link.springer.com/article/10.1007/s10067-024-07289-5" target="_blank" style="color:#002D72">*Causal association between bone mineral density and the risk of joint replacement in patients with osteoarthritis: a Mendelian randomization study*</a> has been published by the **Clinical Rheumatology**.
 
 - **[Dec. 2024]** <a href="https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2827787" target="_blank" style="color:#002D72">*Intraoperative Parathyroid Hormone Monitoring Criteria in Primary Hyperparathyroidism: A Network Meta-Analysis of Diagnostic Test Accuracy*</a> has been published by the **JAMA Otolaryngology–Head & Neck Surgery**.
 
@@ -45,29 +37,13 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 - **[Sep. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Global, regional, and national burden of Burkitt lymphoma from 1990 to 2021 and predictions to 2030: a systematic analysis for the Global Burden of Disease Study 2021*</a> has been published by the **Blood Cancer Journal**.
 
-- **[Aug. 2024]** <a href="https://link.springer.com/article/10.1007/s00296-024-05678-2
-        
-        
-        
-        " target="_blank" style="color:#002D72">*The relationship between MRI-detected hip abnormalities and hip pain in hip osteoarthritis: a systematic review*</a> has been published by the **Rheumatology International**.
+- **[Aug. 2024]** <a href="https://link.springer.com/article/10.1007/s00296-024-05678-2" target="_blank" style="color:#002D72">*The relationship between MRI-detected hip abnormalities and hip pain in hip osteoarthritis: a systematic review*</a> has been published by the **Rheumatology International**.
 
-- **[Jul. 2024]** <a href="https://link.springer.com/article/10.1186/s12891-024-07710-9
-        
-        
-        
-        " target="_blank" style="color:#002D72">*Association of physical activity trajectories over 8 years and risk of knee replacement: data from the osteoarthritis initiative*</a> has been published by the **BMC Musculoskeletal Disorders**.
+- **[Jul. 2024]** <a href="https://link.springer.com/article/10.1186/s12891-024-07710-9" target="_blank" style="color:#002D72">*Association of physical activity trajectories over 8 years and risk of knee replacement: data from the osteoarthritis initiative*</a> has been published by the **BMC Musculoskeletal Disorders**.
 
-- **[Jul. 2024]** <a href="https://www.tandfonline.com/doi/abs/10.1080/14796694.2024.2376512
-        
-        
-        
-        " target="_blank" style="color:#002D72">*A novel prognostic index for extranodal natural killer/T-cell lymphoma in the era of pegaspargase/L-asparaginase*</a> has been published by the **Future Oncology**.
+- **[Jul. 2024]** <a href="https://www.tandfonline.com/doi/abs/10.1080/14796694.2024.2376512" target="_blank" style="color:#002D72">*A novel prognostic index for extranodal natural killer/T-cell lymphoma in the era of pegaspargase/L-asparaginase*</a> has been published by the **Future Oncology**.
 
-- **[Jun. 2024]** <a href="https://link.springer.com/article/10.1007/s00277-024-05852-3
-        
-        
-        
-        " target="_blank" style="color:#002D72">*Clinicopathological analysis of immunohistochemical CD47 and signal-regulatory protein-α expression in Extranodal Natural killer/T-cell lymphoma*</a> has been published by the **Annals of Hematology**.
+- **[Jun. 2024]** <a href="https://link.springer.com/article/10.1007/s00277-024-05852-3" target="_blank" style="color:#002D72">*Clinicopathological analysis of immunohistochemical CD47 and signal-regulatory protein-α expression in Extranodal Natural killer/T-cell lymphoma*</a> has been published by the **Annals of Hematology**.
 
 - **[May. 2024]** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0033350623004535" target="_blank" style="color:#002D72">*The global burden of lymphoma: estimates from the Global Burden of Disease 2019 study*</a> has been published by the **Public Health**.
 
