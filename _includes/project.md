@@ -6,24 +6,6 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OAC.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">article</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2665913125000184" style="color:#002D72">Predictive validity of consensus-based MRI definition of osteoarthritis plus radiographic osteoarthritis for the progression of knee osteoarthritis: a longitudinal cohort study</a></div>
-    <div class="author"><strong>Xing Xing, Yining Wang, Jianan Zhu, Ziyuan Shen, Flavia Cicuttini, Graeme Jones, Dawn Aitken, Guoqi Cai</strong></div>
-    <div class="periodical"><em>Osteoarthritis and Cartilage Open, Accepted.</em></div>
-    <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S2665913125000184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TSA.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">article</abbr>
   </div>
@@ -38,7 +20,25 @@
   </div>
 </div>
 </li>
-  
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/OAC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2665913125000184" style="color:#002D72">Predictive validity of consensus-based MRI definition of osteoarthritis plus radiographic osteoarthritis for the progression of knee osteoarthritis: a longitudinal cohort study</a></div>
+    <div class="author"><strong>Xing Xing, Yining Wang, Jianan Zhu, Ziyuan Shen, Flavia Cicuttini, Graeme Jones, Dawn Aitken, Guoqi Cai</strong></div>
+    <div class="periodical"><em>Osteoarthritis and Cartilage Open, Feb. 2025.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S2665913125000184" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li> 
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
