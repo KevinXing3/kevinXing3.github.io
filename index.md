@@ -33,7 +33,7 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 - **[Dec. 2024]** <a href="https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2827787" target="_blank" style="color:#002D72">*Intraoperative Parathyroid Hormone Monitoring Criteria in Primary Hyperparathyroidism: A Network Meta-Analysis of Diagnostic Test Accuracy*</a> has been published by the **JAMA Otolaryngology–Head & Neck Surgery**.
 
-- **[Nov. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Association of prognostic nutritional index with the presence and all-cause mortality of rheumatoid arthritis: the National Health and Nutrition Examination Survey 2003–2018*</a> has been published by the **BMC Public Health**.
+- **[Nov. 2024]** <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20795-0" target="_blank" style="color:#002D72">*Association of prognostic nutritional index with the presence and all-cause mortality of rheumatoid arthritis: the National Health and Nutrition Examination Survey 2003–2018*</a> has been published by the **BMC Public Health**.
 
 - **[Sep. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Global, regional, and national burden of Burkitt lymphoma from 1990 to 2021 and predictions to 2030: a systematic analysis for the Global Burden of Disease Study 2021*</a> has been published by the **Blood Cancer Journal**.
 
