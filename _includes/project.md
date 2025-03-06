@@ -2,6 +2,24 @@
 
 <div class="publications">
 <ol class="bibliography">
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TSA.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Lack of reproducibility of trial sequential analyses: a meta-epidemiological study </a></div>
+    <div class="author"><strong>Xing Xing, Yining Wang, Yipeng Wang, Lifeng Lin</strong></div>
+    <div class="periodical"><em>Trials, Accepted.</em></div>
+    <div class="links">
+      <a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
