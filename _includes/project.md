@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Lack of reproducibility of trial sequential analyses: a meta-epidemiological study </a></div>
+    <div class="title"><a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-025-08799-6#citeas" style="color:#002D72">Lack of reproducibility of trial sequential analyses: a meta-epidemiological study </a></div>
     <div class="author"><strong>Xing Xing, Yining Wang, Yipeng Wang, M. Hassan Murad, Lifeng Lin</strong></div>
-    <div class="periodical"><em>Trials, Accepted.</em></div>
+    <div class="periodical"><em>Trials, Mar. 2025.</em></div>
     <div class="links">
-      <a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-025-08799-6#citeas" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
