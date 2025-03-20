@@ -26,6 +26,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
+- **[Mar. 2025]** <a href="https://link.springer.com/article/10.1186/s12982-025-00491-z#citeas" target="_blank" style="color:#002D72">*Global trends and projections in the burden of malignant neoplasm of bone and articular cartilage*</a> has been published by the **Discover Public Health**.
+
 - **[Mar. 2025]** <a href="https://www.oarsijournal.com/article/S1063-4584(25)00825-8/abstract" target="_blank" style="color:#002D72">*The association between endogenous sex hormones and knee osteoarthritis in women: a population-based cohort study*</a> has been published by the **Osteoarthritis and Cartilage**.
 
 - **[Jan. 2025]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.14301" target="_blank" style="color:#002D72">*The Role of Double-Zero-Event Studies in Evidence Synthesis: Evaluating Robustness Using the Fragility Index*</a> has been published by the **Journal of Evaluation in Clinical Practice**.
