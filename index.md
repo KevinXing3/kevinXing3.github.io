@@ -30,25 +30,13 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 - **[Mar. 2025]** <a href="https://www.oarsijournal.com/article/S1063-4584(25)00825-8/abstract" target="_blank" style="color:#002D72">*The association between endogenous sex hormones and knee osteoarthritis in women: a population-based cohort study*</a> has been published by the **Osteoarthritis and Cartilage**.
 
-- **[Jan. 2025]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.14301
-        
-        
-        
-        " target="_blank" style="color:#002D72">*The Role of Double-Zero-Event Studies in Evidence Synthesis: Evaluating Robustness Using the Fragility Index*</a> has been published by the **Journal of Evaluation in Clinical Practice**.
+- **[Jan. 2025]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.14301" target="_blank" style="color:#002D72">*The Role of Double-Zero-Event Studies in Evidence Synthesis: Evaluating Robustness Using the Fragility Index*</a> has been published by the **Journal of Evaluation in Clinical Practice**.
 
-- **[Dec. 2024]** <a href="https://link.springer.com/article/10.1007/s10067-024-07289-5
-        
-        
-        
-        " target="_blank" style="color:#002D72">*Causal association between bone mineral density and the risk of joint replacement in patients with osteoarthritis: a Mendelian randomization study*</a> has been published by the **Clinical Rheumatology**.
+- **[Dec. 2024]** <a href="https://link.springer.com/article/10.1007/s10067-024-07289-5" target="_blank" style="color:#002D72">*Causal association between bone mineral density and the risk of joint replacement in patients with osteoarthritis: a Mendelian randomization study*</a> has been published by the **Clinical Rheumatology**.
 
 - **[Dec. 2024]** <a href="https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2827787" target="_blank" style="color:#002D72">*Intraoperative Parathyroid Hormone Monitoring Criteria in Primary Hyperparathyroidism: A Network Meta-Analysis of Diagnostic Test Accuracy*</a> has been published by the **JAMA Otolaryngology–Head & Neck Surgery**.
   
-- **[Nov. 2024]** <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20795-0
-        
-        
-        
-        " target="_blank" style="color:#002D72">*Association of prognostic nutritional index with the presence and all-cause mortality of rheumatoid arthritis: the National Health and Nutrition Examination Survey 2003–2018*</a> has been published by the **BMC Public Health**.
+- **[Nov. 2024]** <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20795-0" target="_blank" style="color:#002D72">*Association of prognostic nutritional index with the presence and all-cause mortality of rheumatoid arthritis: the National Health and Nutrition Examination Survey 2003–2018*</a> has been published by the **BMC Public Health**.
 
 - **[Sep. 2024]** <a href="https://www.nature.com/articles/s41408-024-01138-z" target="_blank" style="color:#002D72">*Global, regional, and national burden of Burkitt lymphoma from 1990 to 2021 and predictions to 2030: a systematic analysis for the Global Burden of Disease Study 2021*</a> has been published by the **Blood Cancer Journal**.
 
