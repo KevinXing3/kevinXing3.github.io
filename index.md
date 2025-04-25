@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a ScM Student in Biostatistics at <a href="https://www.jhu.edu" style="color:#002D72">Johns Hopkins University</a>. My current research focus on developing statistical models for meta-analysis. Under the guidance of <a href="https://publichealth.jhu.edu/faculty/4789/jiayi-jessie-tong" style="color:#002D72">Dr. Jessie Tong</a> and <a href="https://publichealth.arizona.edu/directory/lifeng-lin" style="color:#002D72">Dr. Lifeng Lin</a>, I am concentrating on IPD meta-regression methods and addressing publication bias. Additionally, I have a keen interest in genetics, specifically in Mendelian randomization and TWAS. My work also involves the epidemiologic analysis of musculoskeletal diseases, under the guidance of <a href="https://ggws.ahmu.edu.cn/2021/0922/c940a108940/page.htm" style="color:#002D72">Dr. Guoqi Cai</a>.
 
-Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
+Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt. - *"fino alla fine"*
 
 ## Research Interests
 - Evidence Synthesis
