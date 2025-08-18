@@ -12,7 +12,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-025-08799-6#citeas" style="color:#002D72">Leveraging AI for Meta-Analysis: Evaluating LLMs in Detecting Publication Bias for Next-Generation Evidence Synthesis</a></div>
-    <div class="author"><strong>Xing Xing, Lifeng Lin, M. Hassan Murad, Lifeng Lin, Jiayi Tong</strong></div>
+    <div class="author"><strong>Xing Xing, Lifeng Lin, M. Hassan Murad, Jiayi Tong</strong></div>
     <div class="periodical"><em>Cochrane Evidence Synthesis and Methods, Accepted.</em></div>
     <div class="links">
       <a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-025-08799-6#citeas" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -181,4 +181,5 @@
 
 </ol>
 </div>
+
 
