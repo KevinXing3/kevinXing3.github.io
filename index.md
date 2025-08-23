@@ -26,6 +26,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
+- **[Aug. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841#tab-contributors" target="_blank" style="color:#002D72">*Evaluating the properties of the fragility index of meta-analyses*</a> has been published by the **BMC Medical Research Methodology**.
+
 - **[June. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841#tab-contributors" target="_blank" style="color:#002D72">*Global, Regional, and National Burden and Trends of Soft Tissue and Other Extraosseous Sarcomas From 1990 to 2021*</a> has been published by the **Cancer Control**.
 
 - **[May. 2025]** <a href="https://journals.lww.com/menopausejournal/abstract/9900/hormone_therapy_and_oral_contraceptives_in_the.458.aspx" target="_blank" style="color:#002D72">*Hormone therapy and oral contraceptives in the risk of knee osteoarthritis: a prospective cohort study*</a> has been published by the **Menopause**.
