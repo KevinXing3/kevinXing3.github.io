@@ -26,6 +26,8 @@ Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
 
 
 ## Collaboration
+- **[Sep. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841#tab-contributors" target="_blank" style="color:#002D72">*Retiring the term “weighted mean difference” in contemporary evidence synthesis*</a> has been published by the **Cochrane Evidence Synthesis and Methods**.
+
 - **[Aug. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841#tab-contributors" target="_blank" style="color:#002D72">*Evaluating the properties of the fragility index of meta-analyses*</a> has been published by the **BMC Medical Research Methodology**.
 
 - **[Aug. 2025]** <a href="https://www.tandfonline.com/doi/full/10.1080/07853890.2025.2550583#abstract" target="_blank" style="color:#002D72">*Prognostic value of the co-stimulatory molecule OX40 expression in Extranodal Natural Killer/T-cell Lymphoma*</a> has been published by the **Annals of Medicine**.
