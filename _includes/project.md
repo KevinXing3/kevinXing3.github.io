@@ -2,6 +2,24 @@
 
 <div class="publications">
 <ol class="bibliography">
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/FIS.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/cesm.70047" style="color:#002D72">An alternative method for assessing the fragility of survival analysis results: a proof-of-concept study based on the log-rank test</a></div>
+    <div class="author"><strong>Xing Xing, Aiwen Xing, Kannan Natarajan, Haitao Chu, Lifeng Lin, Jiayi Tong</strong></div>
+    <div class="periodical"><em>American Journal of Epidemiology, Accepted.</em></div>
+    <div class="links">
+      <a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-025-08799-6#citeas" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -181,6 +199,7 @@
 
 </ol>
 </div>
+
 
 
 
