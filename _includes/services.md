@@ -6,6 +6,7 @@
   <li>Research Synthesis Methods</li>
   <li>BMC Medicine</li>
   <li>BMC Public health</li>
+  <li>eLife</li>
   <li>European Journal of Medical Research</li>
   <li>Biochemical Genetics</li>
   <li>Mammalian Genome</li>
