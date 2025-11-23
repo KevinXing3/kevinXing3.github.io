@@ -28,7 +28,7 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 ## Collaboration
 - **[Nov. 2025]** <a href="https://www.sciencedirect.com/science/article/pii/S0011384025002163" target="_blank" style="color:#002D72">*Intraoperative parathyroid hormone monitoring criteria in secondary and tertiary hyperparathyroidism: A systematic review*</a> has been published by the **Current Problems in Surgery**.
 
-- **[Nov. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841#tab-contributors" target="_blank" style="color:#002D72">*Alternative tests and measures for between-study inconsistency in meta-analysis*</a> has been published by the **BMC Medical Research Methodology**.
+- **[Nov. 2025]** <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02719-7" target="_blank" style="color:#002D72">*Alternative tests and measures for between-study inconsistency in meta-analysis*</a> has been published by the **BMC Medical Research Methodology**.
 
 - **[Sep. 2025]** <a href="https://onlinelibrary.wiley.com/doi/10.1002/cesm.70051" target="_blank" style="color:#002D72">*Retiring the term “weighted mean difference” in contemporary evidence synthesis*</a> has been published by the **Cochrane Evidence Synthesis and Methods**.
 
@@ -36,7 +36,7 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 
 - **[Aug. 2025]** <a href="https://www.tandfonline.com/doi/full/10.1080/07853890.2025.2550583#abstract" target="_blank" style="color:#002D72">*Prognostic value of the co-stimulatory molecule OX40 expression in Extranodal Natural Killer/T-cell Lymphoma*</a> has been published by the **Annals of Medicine**.
 
-- **[June. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841#tab-contributors" target="_blank" style="color:#002D72">*Global, Regional, and National Burden and Trends of Soft Tissue and Other Extraosseous Sarcomas From 1990 to 2021*</a> has been published by the **Cancer Control**.
+- **[June. 2025]** <a href="https://journals.sagepub.com/doi/10.1177/10732748251355841" target="_blank" style="color:#002D72">*Global, Regional, and National Burden and Trends of Soft Tissue and Other Extraosseous Sarcomas From 1990 to 2021*</a> has been published by the **Cancer Control**.
 
 - **[May. 2025]** <a href="https://journals.lww.com/menopausejournal/abstract/9900/hormone_therapy_and_oral_contraceptives_in_the.458.aspx" target="_blank" style="color:#002D72">*Hormone therapy and oral contraceptives in the risk of knee osteoarthritis: a prospective cohort study*</a> has been published by the **Menopause**.
 
