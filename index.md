@@ -30,7 +30,7 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 
 - **[Dec. 2025]** <a href="https://www.tandfonline.com/doi/full/10.1080/07853890.2025.2550583" target="_blank" style="color:#002D72">*Prognostic value of the co-stimulatory molecule OX40 expression in Extranodal Natural Killer/T-cell Lymphoma*</a> has been published by the **Annals of Medicine**.
 
-- **[Dec. 2025]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/inm3.70008" target="_blank" style="color:#002D72">*Prognostic value of the co-stimulatory molecule OX40 expression in Extranodal Natural Killer/T-cell Lymphoma*</a> has been published by the **iNew Medicine**.
+- **[Dec. 2025]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/inm3.70008" target="_blank" style="color:#002D72">*Global Burden of Hematologic Malignancies From 1990 to 2021 With Projections to 2030: A Systematic Analysis for the Global Burden of Disease Study 2021*</a> has been published by the **iNew Medicine**.
 
 - **[Nov. 2025]** <a href="https://www.sciencedirect.com/science/article/pii/S0011384025002163" target="_blank" style="color:#002D72">*Intraoperative parathyroid hormone monitoring criteria in secondary and tertiary hyperparathyroidism: A systematic review*</a> has been published by the **Current Problems in Surgery**.
 
