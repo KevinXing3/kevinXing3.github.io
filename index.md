@@ -26,6 +26,12 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 
 
 ## Collaboration
+- **[Jan. 2026]** <a href="https://link.springer.com/article/10.1007/s44313-025-00120-3" target="_blank" style="color:#002D72">*Prognostic impact of smoking and alcohol consumption in male patients with diffuse large B-cell lymphoma: a multicenter retrospective study*</a> has been published by the **Blood Research**.
+
+- **[Dec. 2025]** <a href="https://www.tandfonline.com/doi/full/10.1080/07853890.2025.2550583" target="_blank" style="color:#002D72">*Prognostic value of the co-stimulatory molecule OX40 expression in Extranodal Natural Killer/T-cell Lymphoma*</a> has been published by the **Annals of Medicine**.
+
+- **[Dec. 2025]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/inm3.70008" target="_blank" style="color:#002D72">*Prognostic value of the co-stimulatory molecule OX40 expression in Extranodal Natural Killer/T-cell Lymphoma*</a> has been published by the **iNew Medicine**.
+
 - **[Nov. 2025]** <a href="https://www.sciencedirect.com/science/article/pii/S0011384025002163" target="_blank" style="color:#002D72">*Intraoperative parathyroid hormone monitoring criteria in secondary and tertiary hyperparathyroidism: A systematic review*</a> has been published by the **Current Problems in Surgery**.
 
 - **[Nov. 2025]** <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02719-7" target="_blank" style="color:#002D72">*Alternative tests and measures for between-study inconsistency in meta-analysis*</a> has been published by the **BMC Medical Research Methodology**.
