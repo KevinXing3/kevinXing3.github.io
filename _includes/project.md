@@ -2,6 +2,24 @@
 
 <div class="publications">
 <ol class="bibliography">
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/AJEAD.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72">Evaluating the proper use of “weighted mean difference” in evidence synthesis: a meta-epidemiology study</a></div>
+    <div class="author"><strong>Xing Xing, Yining Wang, Jiayi Tong, Lifeng Lin</strong></div>
+    <div class="periodical"><em>JBI Evidence Synthesis, Accepted</em></div>
+    <div class="links">
+      <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -12,10 +30,10 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72">On the Importance of Covariate-by-Time Interactions in Longitudinal Linear Models</a></div>
-    <div class="author"><strong>Xing Xing, Feitong Wu, Graeme Jones, Lifeng Lin, Jiayi Tong, and Guoqi Cai</strong></div>
-    <div class="periodical"><em>AJE Advances: Research in Epidemiology, Accepted</em></div>
+    <div class="author"><strong>Xing Xing, Feitong Wu, Graeme Jones, Lifeng Lin, Jiayi Tong, Guoqi Cai</strong></div>
+    <div class="periodical"><em>AJE Advances: Research in Epidemiology, Jan. 2026</em></div>
     <div class="links">
-      <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://academic.oup.com/ajeadvances/advance-article/doi/10.1093/ajeadv/uuag002/8423089" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -217,6 +235,7 @@
 
 </ol>
 </div>
+
 
 
 
