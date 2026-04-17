@@ -14,7 +14,7 @@
   <li>Journal of Clinical Epidemiology</li>
   <li>BMC Public health</li>
   <li>eLife</li>
-  <li>Biochemical Genetics</li>
+  <li>Statistics in Biopharmaceutical Research</li>
   <li>Lipids in Health and Disease</li>
 </ul>
 
