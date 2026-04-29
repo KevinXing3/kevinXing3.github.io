@@ -6,13 +6,13 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JBI.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/density_hierarchical.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">article</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> NMADTA: An R Package for Network Meta-analysis of Multiple Diagnostic Tests.</a></div>
-    <div class="author"><strong>Xing Xing, Boyang Lu, Lifeng Lin, James Hodges, Yong Chen, Haitao Chu</strong></div>
+    <div class="author"><strong>Xing Xing, Boyang Lu, Lifeng Lin, Lianqing Shu, James Hodges, Yong Chen, Haitao Chu</strong></div>
     <div class="periodical"><em>Research Synthesis Methods, In Press</em></div>
     <div class="links">
       <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
