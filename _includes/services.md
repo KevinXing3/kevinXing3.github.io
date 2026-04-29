@@ -12,7 +12,6 @@
   <li>BMC Medicine</li>
   <li>Diabetes</li>
   <li>Journal of Clinical Epidemiology</li>
-  <li>BMC Public health</li>
   <li>eLife</li>
   <li>Statistics in Biopharmaceutical Research</li>
   <li>eBioMedicine</li>
