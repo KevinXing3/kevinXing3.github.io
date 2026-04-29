@@ -15,7 +15,7 @@
   <li>BMC Public health</li>
   <li>eLife</li>
   <li>Statistics in Biopharmaceutical Research</li>
-  <li>Lipids in Health and Disease</li>
+  <li>eBioMedicine</li>
 </ul>
 
 
