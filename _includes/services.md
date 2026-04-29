@@ -11,10 +11,10 @@
   <li>Research Synthesis Methods</li>
   <li>BMC Medicine</li>
   <li>Diabetes</li>
-  <li>Journal of Clinical Epidemiology</li>
-  <li>eLife</li>
-  <li>Statistics in Biopharmaceutical Research</li>
   <li>eBioMedicine</li>
+  <li>eLife</li>
+  <li>Journal of Clinical Epidemiology</li>
+  <li>Statistics in Biopharmaceutical Research</li>
 </ul>
 
 
