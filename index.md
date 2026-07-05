@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a PhD Student in Biostatistics at <a href="https://www.jhu.edu" style="color:#ab0520">University of Arizona</a>. My current research focus on developing statistical models for meta-analysis. Under the guidance of <a href="https://publichealth.jhu.edu/faculty/4789/jiayi-jessie-tong" style="color:#ab0520">Dr. Jessie Tong</a> and <a href="https://publichealth.arizona.edu/directory/lifeng-lin" style="color:#ab0520">Dr. Lifeng Lin</a>, I am concentrating on IPD meta-regression methods and addressing publication bias. Additionally, my work also involves the epidemiologic analysis of musculoskeletal diseases, under the guidance of <a href="https://ggws.ahmu.edu.cn/2021/0922/c940a108940/page.htm" style="color:#ab0520">Dr. Guoqi Cai</a>.
+I'm a PhD Student in Biostatistics at <a href="https://www.jhu.edu" style="color:#ab0520">University of Arizona</a>. My current research focus on developing statistical models for meta-analysis. Under the guidance of <a href="https://publichealth.arizona.edu/directory/lifeng-lin" style="color:#ab0520">Dr. Lifeng Lin</a> and <a href="https://publichealth.jhu.edu/faculty/4789/jiayi-jessie-tong" style="color:#ab0520">Dr. Jessie Tong</a>, I am concentrating on IPD meta-regression methods and addressing publication bias. Additionally, my work also involves the epidemiologic analysis of musculoskeletal diseases, under the guidance of <a href="https://ggws.ahmu.edu.cn/2021/0922/c940a108940/page.htm" style="color:#ab0520">Dr. Guoqi Cai</a>.
 
 Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/en/" style="color:#ab0520">Juventus</a> and <a href="https://www.hyatt.com/brands/park-hyatt" style="color:#ab0520">Park Hyatt</a>. 
 
@@ -12,8 +12,6 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 - Meta-analysis
 - Publication Bias
 - Evidence Synthesis
-- Epidemiology
-
 
 
 
