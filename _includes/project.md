@@ -67,7 +67,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.ovid.com/jnls/jbisrir/abstract/10.11124/jbies-25-00520~evaluating-the-proper-use-of-weighted-mean-difference-in?redirectionsource=fulltextview" style="color:#002D72">Evaluating the proper use of “weighted mean difference” in evidence synthesis: a meta-epidemiology study</a></div>
     <div class="author"><strong>Xing Xing, Yining Wang, Jiayi Tong, Lifeng Lin</strong></div>
-    <div class="periodical"><em>JBI Evidence Synthesis, Feb. 2026</em></div>
+    <div class="periodical"><em>JBI Evidence Synthesis, Mar. 2026</em></div>
     <div class="links">
       <a href="https://www.ovid.com/jnls/jbisrir/abstract/10.11124/jbies-25-00520~evaluating-the-proper-use-of-weighted-mean-difference-in?redirectionsource=fulltextview" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
