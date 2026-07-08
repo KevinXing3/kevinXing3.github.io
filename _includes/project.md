@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Aligning Estimands to Strengthen the Credibility of Network Meta-Analysis: Implications for Indirect Treatment Comparisons.</a></div>
+    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Aligning Estimands to Strengthen the Credibility of Network Meta-Analysis: Implications for Indirect Treatment Comparisons</a></div>
     <div class="author"><strong>Xing Xing, Lifeng Lin, Jiayi Tong,Philip He, Weili He, Haitao Chu, </strong></div>
     <div class="periodical"><em>Statistics in Biopharmaceutical Research, In Press</em></div>
     <div class="links">
@@ -29,11 +29,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Trial-design-aware funnel plot for publication bias assessment with non-inferiority or equivalence objectives.</a></div>
+    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(26)00249-0/abstract" style="color:#002D72"> Trial-design-aware funnel plot for publication bias assessment with non-inferiority or equivalence objectives</a></div>
     <div class="author"><strong>Xing Xing, Lifeng Lin, M. Hassan Murad, Haitao Chu, Jiayi Tong</strong></div>
     <div class="periodical"><em>Journal of Clinical Epidemiology, Jun. 2026</em></div>
     <div class="links">
-      <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.jclinepi.com/article/S0895-4356(26)00249-0/abstract" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -47,11 +47,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> NMADTA: An R Package for Network Meta-analysis of Multiple Diagnostic Tests.</a></div>
+    <div class="title"><a href="https://www.cambridge.org/core/journals/research-synthesis-methods/article/nmadta-an-r-package-for-network-metaanalysis-of-multiple-diagnostic-tests/C304A2AF72339076CBECFB7D53AB5C9E" style="color:#002D72"> NMADTA: An R Package for Network Meta-analysis of Multiple Diagnostic Tests</a></div>
     <div class="author"><strong>Xing Xing, Boyang Lu, Lifeng Lin, Lianqing Shu, James Hodges, Yong Chen, Haitao Chu</strong></div>
     <div class="periodical"><em>Research Synthesis Methods, Jun. 2026</em></div>
     <div class="links">
-      <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.cambridge.org/core/journals/research-synthesis-methods/article/nmadta-an-r-package-for-network-metaanalysis-of-multiple-diagnostic-tests/C304A2AF72339076CBECFB7D53AB5C9E" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
