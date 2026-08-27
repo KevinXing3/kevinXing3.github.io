@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis.</a></div>
+    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis</a></div>
     <div class="author"><strong>Xing Xing, Zhiyuan Yu, Mengli Xiao, Jiayi Tong, Lifeng Lin</strong></div>
     <div class="periodical"><em>Biostatistics, In Press</em></div>
     <div class="links">
@@ -29,9 +29,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Aligning Estimands to Strengthen the Credibility of Network Meta-Analysis: Implications for Indirect Treatment Comparisons</a></div>
+    <div class="title"><a href="https://www.tandfonline.com/doi/abs/10.1080/19466315.2026.2703540?trk=feed_main-feed-card_reshare_feed-article-content" style="color:#002D72"> Aligning Estimands to Strengthen the Credibility of Network Meta-Analysis: Implications for Indirect Treatment Comparisons</a></div>
     <div class="author"><strong>Xing Xing, Lifeng Lin, Jiayi Tong, Philip He, Weili He, Haitao Chu </strong></div>
-    <div class="periodical"><em>Statistics in Biopharmaceutical Research, Jul.</em></div>
+    <div class="periodical"><em>Statistics in Biopharmaceutical Research, Jul. 2026</em></div>
     <div class="links">
       <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -79,25 +79,6 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/AJEAD.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">article</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72">On the Importance of Covariate-by-Time Interactions in Longitudinal Linear Models</a></div>
-    <div class="author"><strong>Xing Xing, Feitong Wu, Graeme Jones, Lifeng Lin, Jiayi Tong, Guoqi Cai</strong></div>
-    <div class="periodical"><em>AJE Advances: Research in Epidemiology, Jan. 2026</em></div>
-    <div class="links">
-      <a href="https://academic.oup.com/ajeadvances/advance-article/doi/10.1093/ajeadv/uuag002/8423089" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/LLM-1.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">article</abbr>
   </div>
@@ -113,23 +94,6 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TSA.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">article</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" style="color:#002D72">Trial sequential analysis involving same-year studies requires careful temporal ordering </a></div>
-    <div class="author"><strong>Xing Xing, Yipeng Wang, Lifeng Lin</strong></div>
-    <div class="periodical"><em>Journal of Clinical Epidemiology, Mar. 2025.</em></div>
-    <div class="links">
-      <a href="https://www.jclinepi.com/article/S0895-4356(24)00401-3/fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
@@ -149,41 +113,7 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/BMC.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">article</abbr>
-  </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03707-2#citeas" style="color:#002D72">Assessment of inverse publication bias in safety outcomes: an empirical analysis </a></div>
-    <div class="author"><strong>Xing Xing, Jianan Zhu, Linyu Shi, Chang Xu, Lifeng Lin</strong></div>
-    <div class="periodical"><em>BMC Medicine, Oct. 2024.</em></div>
-    <div class="links">
-      <a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03707-2#citeas" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CCT1.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">article</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1551714424002295" style="color:#002D72">Methods for assessing inverse publication bias of adverse events </a></div>
-    <div class="author"><strong>Xing Xing, Chang Xu, Fahad M Al Amer, Linyu Shi, Jianan Zhu, Lifeng Lin</strong></div>
-    <div class="periodical"><em>Contemporary Clinical Trials, Oct. 2024.</em></div>
-    <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S1551714424002295" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
 
 
 
