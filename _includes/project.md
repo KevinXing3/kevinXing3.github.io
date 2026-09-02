@@ -11,11 +11,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" style="color:#002D72"> Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis</a></div>
+    <div class="title"><a href="https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbiostatistics%2Fkxag033" style="color:#002D72"> Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis</a></div>
     <div class="author"><strong>Xing Xing, Zhiyuan Yu, Mengli Xiao, Jiayi Tong, Lifeng Lin</strong></div>
     <div class="periodical"><em>Biostatistics, In Press</em></div>
     <div class="links">
-      <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbiostatistics%2Fkxag033" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -33,7 +33,7 @@
     <div class="author"><strong>Xing Xing, Lifeng Lin, Jiayi Tong, Philip He, Weili He, Haitao Chu </strong></div>
     <div class="periodical"><em>Statistics in Biopharmaceutical Research, Jul. 2026</em></div>
     <div class="links">
-      <a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwaf229/8285372?redirectedFrom=fulltext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.tandfonline.com/doi/abs/10.1080/19466315.2026.2703540?trk=feed_main-feed-card_reshare_feed-article-content" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
