@@ -17,6 +17,9 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 
 {% include_relative _includes/project.md %}
 ## Conference
+- [Mar. 2026.] <a href="https://academic.oup.com/biostatistics/article/27/1/kxag033/8829081?searchresult=1" target="_blank" style="color:#002D72">*Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis*</a> has been presented on **<span style="color:#002D72">ENAR 2026</span>**.
+
+- [Mar. 2025.] <a href="https://link.springer.com/article/10.1186/s12916-024-03707-2" target="_blank" style="color:#002D72">*Assessment of inverse publication bias in safety outcomes: an empirical analysis*</a> has been presented on **<span style="color:#002D72">ENAR 2025</span>**.
 
 - [Nov. 2024.] <a href="https://acrabstracts.org/abstract/the-causal-effect-of-sex-hormone-related-drugs-on-the-risk-of-osteoarthritis-a-mendelian-randomization-study/" target="_blank" style="color:#002D72">*The Causal Effect of Sex Hormone-related Drugs on the Risk of Osteoarthritis – A Mendelian Randomization Study*</a> has been presented on **<span style="color:#002D72">ACR 2024</span>**.
 
