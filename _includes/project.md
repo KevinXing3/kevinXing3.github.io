@@ -11,9 +11,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbiostatistics%2Fkxag033" style="color:#002D72"> Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis</a></div>
+    <div class="title"><a href="https://academic.oup.com/biostatistics/article/27/1/kxag033/8829081?searchresult=1" style="color:#002D72"> Flexible Nonparametric Assessment of Time-Lag Bias in Meta-Analysis</a></div>
     <div class="author"><strong>Xing Xing, Zhiyuan Yu, Mengli Xiao, Jiayi Tong, Lifeng Lin</strong></div>
-    <div class="periodical"><em>Biostatistics, In Press</em></div>
+    <div class="periodical"><em>Biostatistics, Sep. 2026</em></div>
     <div class="links">
       <a href="https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbiostatistics%2Fkxag033" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
